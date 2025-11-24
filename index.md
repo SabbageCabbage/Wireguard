@@ -40,6 +40,7 @@ Use a text editor to create your docker-compose file and add the following:
 ### Starting
    
     sudo docker compose up -d
+
 ### Accessing Config Files
 
     cd config
@@ -49,5 +50,11 @@ You should now see your peer directories that should contain your .conf files
 
 ### Using Wireguard 
 Download the app from your appstore or get the for your desired OS from https://www.wireguard.com/install
-Import the .conf file or scan the QR code 
+Import the .conf file or scan the QR code, Press Activate
+
+### Screenshots of it working
+
+![](<Screenshot 2025-11-23 234913.png>)
+
+![](<Screenshot 2025-11-23 235038.png>)
 
