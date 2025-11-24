@@ -40,13 +40,14 @@ Use a text editor to create your docker-compose file and add the following:
 ### Starting
    
     sudo docker compose up -d
-### Accessing Config Fikles
+### Accessing Config Files
 
     cd config
     ls
 
-You should now see your peer files 
+You should now see your peer directories that should contain your .conf files
 
-### Getting the config file into an application
-There are obviously many ways to do this, Copy and Pasting seems to be the easiest of the options so I am going to do that
+### Using Wireguard 
+Download the app from your appstore or get the for your desired OS from https://www.wireguard.com/install
+Import the .conf file or scan the QR code 
 
