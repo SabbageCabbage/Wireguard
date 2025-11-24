@@ -49,7 +49,7 @@ Use a text editor to create your docker-compose file and add the following:
 You should now see your peer directories that should contain your .conf files
 
 ### Using Wireguard 
-Download the app from your appstore or get the for your desired OS from https://www.wireguard.com/install
+Download the app from your appstore or get the client for your desired OS from https://www.wireguard.com/install
 Import the .conf file or scan the QR code, Press Activate
 
 ### Screenshots of it working
