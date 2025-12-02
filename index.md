@@ -25,7 +25,7 @@ Use a text editor to create your docker-compose file and add the following:
           - PEERS= The amount of peers you'd want to serve
           - PEERDNS=auto #optional
           - INTERNAL_SUBNET=10.13.13.0 #optional
-   cd       - ALLOWEDIPS=0.0.0.0/0 #optional
+          - ALLOWEDIPS=0.0.0.0/0 #optional
           - PERSISTENTKEEPALIVE_PEERS= #optional
           - LOG_CONFS=true #optional
         volumes:
